@@ -1,6 +1,6 @@
 {
   "name": "sk-atm-machine_project",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "",
   "main": "main.js",
   "type": "module",
@@ -12,7 +12,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.16",
+    "sk-atm-machine_project": "^2.0.1"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
